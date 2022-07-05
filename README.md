@@ -5,8 +5,6 @@
 
 ## 👋 Hello! Welcome to my Github profile. I'm Laís Baltar! 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Laís Baltar&color=f8efd4&style=for-the-badge&logo=GitHub">
- 
 <h3 align ="left">About me</h3>
 
 I’m currently working at [**Mercado Eletrônico;**](https://www.me.com.br/)
